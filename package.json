@@ -1,0 +1,11 @@
+{
+  "name": "rpi-wifi-debugger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:deuxp/rpi-wifi-debugger.git",
+  "author": "deuxp <friedi.frieds@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rpi-wifi-connection": "^1.0.17"
+  }
+}
